@@ -1,0 +1,10 @@
+{
+    "WorkingDir": "C:/Users/kitchittawanij/workspace/oauth",
+    "SourceDir": [
+        "C:/Users/kitchittawanij/workspace/oauth"
+    ],
+    "SourceExt": [".c", ".cpp", ".go", ".h"],
+    "BuildCmd": "go build C:/Users/kitchittawanij/workspace/oauth",
+    "RunCmd": "oauth2.exe",
+    "Decreasing": 1
+}
